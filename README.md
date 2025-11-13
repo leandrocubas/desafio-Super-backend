@@ -197,7 +197,7 @@ Os mocks foram criados no **Postman** e simulam as integrações com as subadqui
 ### Rotas disponíveis
 
 | Ação | Método | Endpoint | Header de Exemplo | 
-|------|---------|-----------|------------------|---------------------|
+|------|---------|-----------|------------------|
 | **Gerar PIX (sucesso)** | `POST` | `/pix/create` | `x-mock-response-name: [SUCESSO_PIX] pix_create` | 
 | **Gerar PIX (erro)** | `POST` | `/pix/create` | `x-mock-response-name: [ERRO_PIX] pix_create` | 
 | **Saque (sucesso)** | `POST` | `/withdraw` | `x-mock-response-name: [SUCESSO_WD] withdraw` |
