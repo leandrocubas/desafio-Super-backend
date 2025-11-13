@@ -189,8 +189,8 @@ Os mocks foram criados no **Postman** e simulam as integrações com as subadqui
 
 | Subadquirente | Documentação | Base URL (Mock) |
 |----------------|--------------|-----------------|
-| **SubadqA** | [Ver documentação](https://documenter.getpostman.com/view/49994027/2sB3WvMJ8p) | `https://xxxx.mock.pstmn.io` |
-| **SubadqB** | [Ver documentação](https://documenter.getpostman.com/view/49994027/2sB3WvMJD7) | `https://yyyy.mock.pstmn.io` |
+| **SubadqA** | [Ver documentação](https://documenter.getpostman.com/view/49994027/2sB3WvMJ8p) | `https://0acdeaee-1729-4d55-80eb-d54a125e5e18.mock.pstmn.io` |
+| **SubadqB** | [Ver documentação](https://documenter.getpostman.com/view/49994027/2sB3WvMJD7) | `https://ef8513c8-fd99-4081-8963-573cd135e133.mock.pstmn.io` |
 
 ---
 
