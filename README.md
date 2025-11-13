@@ -198,10 +198,10 @@ Os mocks foram criados no **Postman** e simulam as integrações com as subadqui
 
 | Ação | Método | Endpoint | Header de Exemplo | Exemplo de Response |
 |------|---------|-----------|------------------|---------------------|
-| **Gerar PIX (sucesso)** | `POST` | `/pix/create` | `x-mock-response-name: [SUCESSO] pix_create` | JSON de sucesso |
-| **Gerar PIX (erro)** | `POST` | `/pix/create` | `x-mock-response-name: [ERRO] pix_create` | JSON de erro |
-| **Saque (sucesso)** | `POST` | `/withdraw` | `x-mock-response-name: [SUCESSOW] withdraw` | JSON de sucesso |
-| **Saque (erro)** | `POST` | `/withdraw` | `x-mock-response-name: [ERROW] withdraw` | JSON de erro |
+| **Gerar PIX (sucesso)** | `POST` | `/pix/create` | `x-mock-response-name: [SUCESSO_PIX] pix_create` | JSON de sucesso |
+| **Gerar PIX (erro)** | `POST` | `/pix/create` | `x-mock-response-name: [ERRO_PIX] pix_create` | JSON de erro |
+| **Saque (sucesso)** | `POST` | `/withdraw` | `x-mock-response-name: [SUCESSO_WD] withdraw` | JSON de sucesso |
+| **Saque (erro)** | `POST` | `/withdraw` | `x-mock-response-name: [ERROW_WD] withdraw` | JSON de erro |
 
 > ⚠️ Todos os exemplos completos de request e response estão disponíveis nas documentações Postman acima.
 
